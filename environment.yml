@@ -1,0 +1,5 @@
+name: artificial-taxonomist
+
+dependencies:
+  - python=3
+  - jupyter
