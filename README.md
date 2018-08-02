@@ -1,7 +1,7 @@
 # Artificial Taxonomist - AT (@)
 This Project intends to explore machine learning to identify herbarium vouchers, inspired by works below.
 
-##Rationale
+## Rationale
 
 The rise of virtual herbaria, such as REFLORA, made available millions of high-resolution images which can be used to train an Artificial Intelligence-based infrastructure to help the identification od indetermined vouchers.
 
