@@ -1,4 +1,7 @@
 # Artificial Taxonomist - AT (@)
+
+[![Join the chat at https://gitter.im/ArtificialTaxonomist/Lobby](https://badges.gitter.im/ArtificialTaxonomist/Lobby.svg)](https://gitter.im/ArtificialTaxonomist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This Project intends to explore machine learning to identify herbarium vouchers, inspired by works below.
 
 ## Rationale
